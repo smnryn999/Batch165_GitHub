@@ -4,3 +4,4 @@ Git-GitHub Notları
 - git add . komutu ile yaptığımız değişiklikleri working directory'den staging area'a taşırız.
 - git status ile commit öncesinde nerede olduğumuzu görürüz.
 - git commit -m "V1" komutu ile değişiklikleri staging area'dan commit store'a taşırız ve bir versiyon oluşturmuş oluruz.
+- git commit --amend -m "V3" ile mesajı değiştirebiliriz.
