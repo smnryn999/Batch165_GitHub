@@ -7,3 +7,5 @@ Git-GitHub Notları
 - git commit --amend -m "V3" ile mesajı değiştirebiliriz.
 - git diff ile working space'teki değişiklikleri görebiliriz.
 - git show hashcode ile de commit store'daki değişiklikleri görürüz.
+- git remote add origin url diyerek bir remote repository adres tanımlamış oluruz.
+- git push -u master ile de dosyalarımızı push ederiz.
