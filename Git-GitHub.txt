@@ -16,3 +16,5 @@ Git-GitHub Notları
 - git branch name diyerek yeni bir branch oluştururuz.
 - git merge anotherBranch yazarsak branchleri birleştirmiş oluruz.
 - git branch -d name yazarak localdeki bir branchi sileriz.
+
+- git stash ile değişiklikleri geçici olrak hafızaya alırız.
