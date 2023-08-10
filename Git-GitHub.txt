@@ -12,3 +12,4 @@ Git-GitHub Notları
 - git pull diyerek remote repository'nin son halini alırız.
 
 - git branch ile branchleri listeleriz.
+- git branch --all ile remote'taki branchleri de listeleriz.
